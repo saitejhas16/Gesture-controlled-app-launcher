@@ -40,8 +40,6 @@ Here are snapshots of the project in action:
 |------------------|------------------|-------------------|------------------|
 | ![Gmail](Gmail.png) | ![YouTube](Youtube.png) | ![Spotify](spotify.png) | ![Choose Gmail](Selecting_gmail.png) |
 
-> _Note: Place these images inside a folder named `images/` in your repository._
-
 ---
 
 ## 🛠️ Tech Stack
