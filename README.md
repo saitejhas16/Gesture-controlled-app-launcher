@@ -38,7 +38,7 @@ Here are snapshots of the project in action:
 
 | Gmail Interface | YouTube Interface | Spotify Interface | App Selection |
 |------------------|------------------|-------------------|------------------|
-| ![Gmail](gmail.png) | ![YouTube](youtube.png) | ![Spotify](spotify.png) | ![Choose Gmail](Selecting_gmail.png) |
+| ![Gmail](Gmail.png) | ![YouTube](Youtube.png) | ![Spotify](spotify.png) | ![Choose Gmail](Selecting_gmail.png) |
 
 > _Note: Place these images inside a folder named `images/` in your repository._
 
