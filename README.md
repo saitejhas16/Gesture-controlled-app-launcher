@@ -1,4 +1,4 @@
-# Gesture-Controlled Virtual Assistant 🤖✋
+# Gesture-Controlled App Launcher 🤖✋
 
 A computer vision-powered virtual assistant that allows users to control popular applications such as **YouTube**, **Spotify**, and **Gmail** using hand gestures. Built using Python, OpenCV, and the `cvzone` Hand Tracking Module, this project showcases how intuitive gesture interaction can be integrated into desktop workflows.
 
