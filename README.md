@@ -74,7 +74,7 @@ Here are snapshots of the project in action:
 
 ## 🤝 Let's Collaborate!
 
-I'm open to collaboration on data analysis, SQL automation, and media analytics projects.
+I'm open to collaboration on Python,data analysis, SQL automation, and media analytics projects.
 
 📧 Email: [saitejhas49@gmail.com](mailto:saitejhas49@gmail.com)  
 🔗 LinkedIn: [L.N. Sai Tejhas](https://linkedin.com/in/lnsaitejhas)
